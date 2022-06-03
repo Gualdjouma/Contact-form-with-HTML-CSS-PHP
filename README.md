@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Gualdjouma
-- 👀 I’m interested in improving my web developevemt skill.s
+- 👋 Hi, I’m Idris
+- 👀 I’m interested in web developevemt.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on .
-- 📫 Say hi on Twitter @IdrisTrades
+- 💞️ I’m looking to collaborate on new projects.
+- 📫 Twitter @IdrisTrades
 
 <!---
 Gualdjouma/Gualdjouma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
